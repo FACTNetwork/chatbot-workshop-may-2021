@@ -35,6 +35,8 @@ $ export FLASK_APP=bot.py
 $ flask run --host=0.0.0.0 --extra-files participants.json
 ```
 
+The bot will be running at [http://localhost:5000](http://localhost:5000).
+
 ## What we will cover in this workshop
 
 Here is an overview.  I will provide bespoke learning materials on the day.
