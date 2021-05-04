@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <!-- Fix the viewport for mobile device users. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <!-- Include the JavaScript code for the bot. -->
+    <script src="/static/frontend.js"></script>
+    <!-- Include the CSS stylesheet for the bot. -->
+    <link rel="stylesheet" href="/static/main.css" />
+    <title>University of Sussex</title>
+</head>
+
+<body>
+    <h1>Chat Bot</h1>
+
+    <div id="conversation" class="conversation">
+        <!-- 
+            
+        This is where the conversation will appear - messages will be 
+        inserted by JavaScript code. 
+        
+        -->
+    </div>
+
+    <div class="formArea">
+        <!-- HTML form that posts messages to the back end. -->
+        <form id="ask" action="/message" method="post">
+            <div class="inputs">
+                <input type="text" name="message" id="message" autofocus autocomplete="off"></input>
+                <button type="submit" class="submitButton">Submit</input>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

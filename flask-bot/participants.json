@@ -1,0 +1,22 @@
+{
+    "participants": [
+        {
+            "name": "Mary",
+            "age": "16",
+            "city": "Manchester",
+            "contraception": "I found out from my big sister who had a boyfriend and was on the pill at the time."
+        },
+        {
+            "name": "Joan",
+            "age": "21",
+            "city": "London",
+            "contraception": "I wanted to have sex, so I went to the GP and asked for some condoms."
+        },
+        {
+            "name": "Ethel",
+            "age": "35",
+            "city": "Manchester",
+            "contraception": "I had sex education at school, but I became pregnant on my first time as it was a spur of the moment thing."
+        }
+    ]
+}
