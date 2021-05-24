@@ -12,7 +12,7 @@ We will be building a chatbot in stages as the workshops progress.  [The code in
 
 [See the bot in action online](https://wrap-bot.herokuapp.com/), or download the code and run it on your machine.
 
-Tto run the bot on your machine, first ensure you have all the software [prerequisites](prerequisites.md).
+To run the bot on your machine, first ensure you have all the software [prerequisites](prerequisites.md).
 
 You will also need some proficiency with the command line.
 
